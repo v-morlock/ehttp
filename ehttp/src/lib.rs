@@ -18,7 +18,6 @@
 //! * [`tokio::sync::watch::channel`](https://docs.rs/tokio/latest/tokio/sync/watch/fn.channel.html)
 //!
 //! ## Feature flags
-#![doc = document_features::document_features!()]
 //!
 
 /// Performs an HTTP request and calls the given callback when done.
